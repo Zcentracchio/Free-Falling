@@ -1,4 +1,3 @@
-# Free-Falling
 function playRPS(){
 	var user = document.getElementById ("userInput");
 	var userPick = user.value.toLowerCase();
