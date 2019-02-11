@@ -1,4 +1,3 @@
-# Free-Falling
 function diceRoll(){
     
     var roll1 =  Math.floor(Math.random() * 6)+1;
